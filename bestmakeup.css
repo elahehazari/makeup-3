@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(238, 215, 243);
+}
+
+.text {
+    float: right;
+}
+
+.header {
+    padding: 25px;
+    background: rgb(182, 153, 211);
+    color: white;
+    font-size: 20px;
+}
+
+.space {
+    word-spacing: 60px;
+}
+
+li {
+    display: inline;
+}
+
+h1 {
+    text-align: center;
+    border-width: 7px;
+    border-color: rgb(184, 152, 197);
+    border-style: ridge;
+    border-radius: 10px;
+}
+
+.column1 {
+    float: left;
+    width: 24%;
+    height: 100%;
+    padding: 10px;
+}
+
+.column2 {
+    float: right;
+    width: 74%;
+    position: fixed;
+    text-orientation: 120px;
+    right: 0;
+}
+
+img {
+    width: 400px;
+    border: solid 10px purple
+}
